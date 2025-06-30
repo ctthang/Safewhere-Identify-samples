@@ -1,0 +1,29 @@
+[
+  {
+    "languageCode": "da",
+    "items": [
+      {
+        "key": "TextResourcesLanguage",
+        "value": "Dansk"
+      }
+    ]
+  },
+  {
+    "languageCode": "en",
+    "items": [
+      {
+        "key": "TextResourcesLanguage",
+        "value": "English"
+      }
+    ]
+  },
+  {
+    "languageCode": "de",
+    "items": [
+      {
+        "key": "TextResourcesLanguage",
+        "value": "Deutsch"
+      }
+    ]
+  }
+]
